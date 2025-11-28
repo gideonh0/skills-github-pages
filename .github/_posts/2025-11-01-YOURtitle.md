@@ -1,4 +1,4 @@
 ---
-title: "YOUR-TITLE"
-date: 2025-11-02
+title: "YOURtitle"
+date: 2025-11-01
 ---
